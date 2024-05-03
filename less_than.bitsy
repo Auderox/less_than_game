@@ -1,0 +1,1059 @@
+less_than
+
+# BITSY VERSION 8.12
+
+! VER_MAJ 8
+! VER_MIN 12
+! ROOM_FORMAT 1
+! DLG_COMPAT 0
+! TXT_MODE 0
+
+PAL 0
+0,0,0
+255,4,4
+255,255,255
+NAME blueprint
+
+PAL 1
+0,0,0
+173,173,173
+255,255,255
+
+ROOM 0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,a,a,a,a,a,a,a,a,a,a,0,0,0
+0,0,0,a,0,0,0,0,0,0,0,0,a,0,0,0
+0,0,0,a,0,0,0,0,0,0,0,0,a,0,0,0
+0,0,0,a,0,0,0,0,0,0,0,0,a,0,0,0
+0,0,0,a,0,0,0,0,0,0,0,0,a,0,0,0
+0,0,0,a,0,0,0,0,0,0,0,0,a,0,0,0
+0,0,0,a,0,0,0,0,0,0,0,0,a,0,0,0
+0,0,0,a,0,0,0,0,0,0,0,0,a,0,0,0
+0,0,0,a,0,0,0,0,0,0,0,0,a,0,0,0
+0,0,0,a,a,a,b,a,a,a,a,a,a,0,0,0
+0,0,0,0,0,0,g,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NAME bedroom
+EXT 6,12 1 6,3
+PAL 0
+
+ROOM 1
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,g,0,0,0,0,0,0,0,0,0
+0,0,0,a,a,a,b,a,a,a,a,a,a,0,0,0
+0,0,0,a,c,0,0,0,0,0,0,c,a,0,0,0
+0,0,0,a,0,0,0,0,0,0,0,0,a,0,0,0
+0,0,0,a,0,0,0,0,0,0,0,0,b,g,0,0
+0,0,0,a,0,0,0,0,0,0,0,0,a,0,0,0
+0,0,0,a,0,0,0,0,0,0,0,0,a,0,0,0
+0,0,0,a,0,0,0,0,a,a,a,a,a,0,0,0
+0,0,0,a,0,0,0,0,a,0,0,0,a,0,0,0
+0,0,0,a,e,d,f,0,0,0,0,0,a,0,0,0
+0,0,0,a,a,a,a,a,a,a,a,a,a,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NAME kitchen
+ITM 0 11,11
+EXT 6,3 0 6,12
+EXT 12,6 2 1,14 FX fade_b DLG k
+PAL 0
+
+ROOM 2
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+a,a,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+a,a,a,0,0,0,0,0,0,0,0,0,0,0,0,0
+a,a,a,a,0,0,0,0,0,0,0,0,0,0,0,0
+a,a,a,a,0,0,0,0,0,0,0,0,0,0,0,0
+0,a,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,a,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,a,0,0,0,0,0,0,0,0,j,i,0,0,0,0
+0,a,0,0,0,0,0,0,0,0,0,h,0,0,0,0
+0,a,0,0,0,0,0,0,0,0,0,h,0,0,0,0
+0,a,g,g,g,g,g,g,g,g,g,h,g,g,g,g
+g,b,0,0,0,0,0,0,0,0,0,k,0,0,0,0
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+NAME outside
+EXT 1,14 1 12,6 FX fade_b
+EXT 15,14 3 0,14
+PAL 0
+
+ROOM 3
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,a,a,a,a
+0,0,0,0,0,0,0,0,0,0,0,a,a,0,0,0
+0,0,0,0,0,0,j,i,0,0,0,a,0,0,0,0
+0,0,0,0,0,0,0,h,0,0,0,a,0,0,0,0
+g,g,g,g,g,g,g,h,g,g,g,a,0,0,0,0
+0,0,0,0,0,0,0,k,0,0,0,b,g,0,0,0
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+NAME shelter
+EXT 0,14 2 15,14
+EXT 11,14 4 1,11
+PAL 0
+
+ROOM 4
+l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l
+l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l
+l,l,l,l,l,a,a,a,a,a,b,a,a,a,a,l
+l,l,l,l,l,a,0,0,0,0,0,0,0,0,a,l
+l,l,l,l,l,a,0,0,0,0,0,0,0,0,a,l
+l,l,l,l,l,a,0,0,0,0,0,0,0,0,a,l
+l,l,l,l,l,a,0,0,0,0,0,0,0,0,a,l
+l,l,l,l,l,a,0,0,0,0,0,0,0,0,a,l
+l,a,a,a,a,a,0,0,0,0,0,0,0,0,a,l
+l,a,0,0,0,0,0,0,0,0,0,0,0,0,a,l
+l,a,0,0,0,0,0,0,0,0,0,0,0,0,a,l
+l,b,0,0,0,0,0,0,0,0,0,0,0,0,a,l
+l,a,0,0,0,0,0,0,0,0,0,0,0,0,a,l
+l,a,0,0,0,0,0,0,0,0,0,0,0,0,a,l
+l,a,a,a,a,a,a,a,a,a,a,a,a,a,a,l
+l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l
+NAME stomach
+EXT 1,11 3 11,14
+EXT 10,2 6 0,14
+PAL 0
+
+ROOM 6
+l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l
+l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l
+l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l
+l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l
+l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l
+a,b,a,l,l,l,l,l,l,l,l,l,l,l,l,l
+a,0,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,0,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+b,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+NAME intestine
+EXT 0,14 4 10,2
+EXT 1,5 7 9,7
+PAL 0
+
+ROOM 7
+l,l,l,a,a,a,a,a,a,a,a,a,a,a,a,a
+l,l,a,a,0,0,0,0,0,0,0,0,0,0,b,a
+l,l,a,0,0,0,0,a,a,a,a,a,a,a,a,0
+a,a,0,0,0,0,a,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,0,a,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,a,0,0,0,0,0,0,0,0,0,a
+a,0,0,0,0,a,0,0,0,a,a,0,0,0,0,a
+a,0,0,0,a,a,0,0,a,b,a,0,0,0,0,a
+a,0,0,0,a,0,0,0,0,0,0,a,0,0,0,a
+a,0,0,0,a,0,0,0,0,0,0,a,0,0,a,l
+a,0,0,0,0,a,a,a,a,a,a,0,0,0,a,l
+a,0,0,0,0,0,0,0,0,0,0,0,0,a,l,l
+a,0,0,0,0,0,0,0,0,0,0,0,a,l,l,l
+l,a,0,0,0,0,0,0,0,0,a,a,l,l,l,l
+l,l,a,a,a,a,a,a,a,a,l,l,l,l,l,l
+l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l
+NAME spiral
+EXT 9,7 6 1,5
+EXT 14,1 8 0,9
+PAL 0
+
+ROOM 8
+l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l
+l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l
+l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l
+l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l
+l,l,l,l,l,l,l,l,a,l,l,l,l,l,l,l
+l,l,l,l,l,l,l,a,0,a,l,l,l,l,l,l
+l,l,l,l,l,l,l,a,0,0,a,l,l,l,l,l
+a,a,a,a,a,a,a,a,0,0,0,a,l,l,l,l
+0,0,0,0,0,0,0,0,0,0,0,b,l,l,l,l
+b,0,0,0,0,0,0,0,0,0,0,a,l,l,l,l
+a,a,a,a,a,a,a,a,0,0,0,a,l,l,l,l
+l,l,l,l,l,l,l,a,0,0,a,l,l,l,l,l
+l,l,l,l,l,l,l,a,0,a,l,l,l,l,l,l
+l,l,l,l,l,l,l,l,a,l,l,l,l,l,l,l
+l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l
+l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l
+NAME it
+EXT 0,9 7 14,1
+EXT 11,8 9 12,4
+PAL 0
+
+ROOM 9
+l,l,a,0,0,0,0,0,0,0,0,0,0,a,l,l
+l,l,a,0,0,0,0,0,0,0,0,0,0,a,l,l
+l,l,a,0,0,0,0,0,0,0,0,0,0,a,l,l
+l,l,a,0,0,0,0,0,0,0,0,0,0,a,l,l
+l,l,a,0,0,0,0,0,0,0,0,0,b,a,l,l
+l,l,a,a,0,0,0,0,0,0,0,0,a,a,l,l
+l,l,l,a,0,0,0,0,0,0,0,0,a,l,l,l
+l,l,l,a,a,a,0,0,0,0,a,a,a,l,l,l
+l,l,l,a,0,0,a,0,0,a,0,0,a,l,l,l
+l,l,l,a,0,0,0,0,0,0,0,0,a,l,l,l
+l,l,a,b,0,0,0,0,0,0,0,0,0,a,l,l
+l,l,l,a,a,0,0,0,0,0,0,a,a,l,l,l
+l,l,l,l,a,a,0,0,0,0,a,a,l,l,l,l
+l,l,l,l,l,a,a,a,a,a,a,l,l,l,l,l
+l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l
+l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l
+NAME ribs
+EXT 12,4 8 11,8
+EXT 3,10 a 2,14
+PAL 0
+
+ROOM a
+a,a,a,0,0,0,0,0,0,0,0,0,0,0,0,0
+a,a,a,0,0,0,0,0,0,0,0,0,0,0,0,0
+a,a,a,0,0,0,0,0,0,0,0,0,0,0,0,0
+a,a,a,0,0,0,0,0,0,0,0,0,0,0,0,0
+a,a,a,0,0,0,0,0,0,0,0,0,0,0,0,0
+a,a,a,0,0,0,0,0,0,0,0,0,0,0,0,0
+a,a,a,0,0,0,0,0,0,0,0,0,0,0,0,0
+a,a,a,0,0,0,0,0,0,0,0,0,0,0,0,0
+a,a,a,0,0,0,0,0,0,0,0,0,0,0,0,0
+a,a,a,0,0,0,0,0,0,0,0,0,0,0,0,0
+a,a,a,0,0,0,0,0,0,0,0,j,i,0,0,0
+a,a,a,0,0,0,0,0,0,0,0,0,h,0,0,0
+a,a,a,0,0,0,0,0,0,0,0,0,h,0,0,0
+a,a,a,g,g,g,g,g,g,g,g,g,h,g,g,g
+l,l,b,0,0,0,0,0,0,0,0,0,k,0,0,0
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+NAME freedom
+EXT 2,14 9 3,10
+EXT 15,14 b 9,7
+PAL 0
+
+ROOM b
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,m,m,m,m,m,m,m,m,m,m,0,0,0
+0,0,0,m,c,0,0,0,0,0,0,0,m,0,0,0
+0,0,0,m,0,0,0,0,0,0,0,0,m,0,0,0
+0,0,0,m,0,0,0,0,0,0,0,0,m,0,0,0
+0,0,0,m,0,0,0,0,0,0,0,0,m,0,0,0
+0,0,0,m,n,0,0,0,0,0,0,0,m,0,0,0
+0,0,0,m,0,0,0,0,0,0,0,0,m,0,0,0
+0,0,0,m,0,0,0,0,0,0,0,0,m,0,0,0
+0,0,0,m,0,0,0,0,0,0,0,0,m,0,0,0
+0,0,0,m,m,m,b,m,m,m,m,m,m,0,0,0
+0,0,0,0,0,0,g,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NAME bedroom copy
+END j 6,12
+PAL 1
+
+TIL a
+11111111
+10111101
+11011011
+11101111
+11110111
+11011011
+10111101
+11111111
+>
+11111111
+10111101
+11011011
+11110111
+11101111
+11011011
+10111101
+11111111
+NAME block1
+WAL true
+
+TIL b
+11111111
+10000001
+10000001
+10000001
+10100001
+10100001
+10000001
+10000001
+NAME door
+
+TIL c
+00000000
+00011000
+00011100
+00011000
+00111000
+00011000
+00111100
+00111100
+NAME plant1
+
+TIL d
+00000000
+00000000
+00000000
+00000000
+00000000
+01111110
+01000010
+01000010
+NAME table
+
+TIL e
+00000000
+00000000
+00000000
+00000100
+00000100
+00000100
+00000111
+00000101
+NAME chair1
+
+TIL f
+00000000
+00000000
+00000000
+00100000
+00100000
+00100000
+11100000
+10100000
+NAME chair2
+
+TIL g
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME barrier
+WAL true
+
+TIL h
+00011000
+00011000
+00011000
+00011000
+00011000
+00011000
+00011000
+00011000
+NAME light1
+WAL true
+
+TIL i
+00000000
+00000000
+11111000
+11111000
+00011000
+00011000
+00011000
+00011000
+NAME light2
+WAL true
+
+TIL j
+00000000
+00000000
+00001111
+00001111
+00000110
+00001001
+00001111
+00000000
+NAME light3
+WAL true
+
+TIL k
+00011000
+00011000
+00011000
+00011000
+00011000
+00011000
+00011000
+00111100
+NAME light1nowall
+
+TIL l
+10101010
+01010101
+10101010
+01010101
+10101010
+01010101
+10101010
+01010101
+>
+01010101
+10101010
+01010101
+10101010
+01010101
+10101010
+01010101
+10101010
+NAME scary
+WAL true
+
+TIL m
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+WAL true
+
+TIL n
+00000000
+00000000
+00000000
+01111110
+01100110
+01111110
+01000010
+01000010
+NAME chest2
+
+SPR A
+00000000
+01111110
+01011010
+01011010
+01111110
+00011000
+00111100
+00011000
+POS 0 9,7
+
+SPR a
+00000000
+00000000
+01010001
+01110001
+01110010
+01111100
+00111100
+00100100
+NAME cat1
+DLG 0
+POS 0 10,10
+BLIP 1
+
+SPR b
+00000000
+00000000
+00000000
+00000001
+00000011
+01111111
+01111111
+01000001
+NAME bed1
+DLG 3
+POS 0 11,4
+
+SPR c
+01000010
+00100100
+01111110
+01000010
+01000010
+01111110
+11111111
+10000001
+NAME tv1
+DLG 4
+POS 0 7,4
+
+SPR d
+00000000
+00011000
+00011100
+00011000
+00111000
+00011000
+00111100
+00111100
+NAME plant2
+DLG 5
+POS 0 4,4
+
+SPR e
+00000000
+00000000
+00000000
+00000000
+01111110
+01100110
+01111110
+01000010
+NAME chest1
+DLG 6
+POS 0 4,8
+
+SPR f
+00000000
+00000000
+01001100
+00111000
+00010100
+00111010
+00011000
+00011000
+>
+00000000
+00001000
+00001000
+01111000
+00010110
+00111000
+00011000
+00011000
+NAME one
+DLG 7
+POS 4 12,13
+
+SPR g
+00000000
+00000000
+00001000
+01110100
+01001111
+01001111
+01111111
+00111111
+>
+00000000
+00000000
+00000100
+01110100
+01001111
+01001111
+01111111
+00111111
+NAME two
+DLG 8
+POS 4 8,6
+
+SPR h
+00000000
+00000000
+00110000
+01000000
+01010000
+01000000
+00110000
+00000000
+>
+00000000
+00000000
+00001100
+00000010
+00001010
+00000010
+00001100
+00000000
+NAME three
+DLG 9
+POS 6 14,8
+
+SPR i
+00000000
+00000000
+00100000
+00010011
+00001011
+00000101
+00000011
+00000001
+>
+00000000
+00000000
+00001000
+00001011
+00001011
+00000101
+00000011
+00000001
+NAME four
+DLG a
+POS 7 14,8
+
+SPR j
+00000000
+00111100
+00110100
+00101100
+01000010
+01111110
+00011000
+00011000
+>
+00000000
+00111100
+00110100
+00100100
+01000010
+01111110
+00011000
+00011000
+NAME five
+DLG b
+POS 7 5,4
+
+SPR k
+01111000
+01001110
+01001010
+01111010
+00101110
+00101010
+00100010
+00000010
+>
+01111000
+01001110
+01001010
+01111010
+00101110
+00101010
+00001000
+00000000
+NAME six
+DLG c
+POS 8 10,10
+
+SPR l
+00000000
+00011000
+00111100
+11111111
+01111110
+00111100
+01100110
+00000000
+>
+00000000
+00011000
+10111101
+01111110
+01111110
+00111100
+01100110
+00000000
+NAME seven
+DLG d
+POS 9 5,6
+
+SPR m
+00000000
+00000000
+01111110
+01111110
+01111010
+00110110
+00100010
+00000010
+>
+00000000
+00000000
+01111110
+01111110
+01111010
+00110110
+00110010
+00100010
+NAME eight
+DLG e
+POS 9 10,11
+
+SPR n
+00000000
+00000000
+00000010
+01010000
+10101000
+10010000
+10000100
+10000000
+>
+00000000
+00000000
+00000000
+01010001
+10101000
+10010010
+10000000
+10000000
+NAME nine
+DLG f
+POS 9 6,12
+
+SPR o
+00000000
+00000000
+00111000
+00111000
+00111000
+00010100
+00111000
+00010000
+>
+00000000
+00000000
+00111000
+00111000
+00111000
+01010000
+00111000
+00010000
+NAME ten
+DLG g
+POS 6 1,11
+
+SPR p
+00000000
+00000000
+01010001
+01110001
+01110010
+01111100
+00111100
+00100100
+NAME cat2
+DLG 0
+POS b 10,10
+BLIP 1
+
+SPR q
+00000000
+00000000
+00000000
+00000001
+00000011
+01111111
+01111111
+01000001
+NAME bed2
+DLG h
+POS b 11,4
+
+SPR r
+01000010
+00100100
+01111110
+01000010
+01000010
+01111110
+11111111
+10000001
+NAME tv2
+DLG i
+POS b 7,4
+
+ITM 0
+00000000
+00000000
+00000000
+00111100
+01100100
+00100100
+00011000
+00000000
+NAME tea
+DLG 1
+BLIP 2
+
+ITM 1
+00000000
+00111100
+00100100
+00111100
+00010000
+00011000
+00010000
+00011000
+NAME key
+DLG 2
+BLIP 2
+
+DLG 0
+"""
+Meow!
+
+[Your best friend.]
+"""
+NAME cat dialog
+
+DLG 1
+"""
+You found a nice warm cup of tea.
+You feel ready to go outside!
+"""
+NAME tea dialog
+
+DLG 2
+A key! {wvy}What does it open?{wvy}
+NAME key dialog
+
+DLG 3
+"""
+Your bed.
+You aren't tired.
+"""
+NAME bed1 dialog
+
+DLG 4
+"""
+ [Your TV. It's broken.]
+{pg}[It has a shiny screen. You use it as a mirror.]
+[Your name is Socket and you have holes-for-brains.]
+"""
+NAME tv1 dialog
+
+DLG 5
+[It looks like a tree stuck in a cactus.]
+NAME plant2 dialog
+
+DLG 6
+[Nothing useful in there.]
+NAME chest1 dialog
+
+DLG 7
+"""
+ So, you've stepped outside.{pg}How do you feel? 
+Scared? Nervous?
+[...]{pg}[I feel tired.]
+"""
+NAME one dialog
+
+DLG 8
+"""
+ Why, mommy?{pg}Why do you hate me so much?{pg}Why did you have to go?{pg}Why did you let me live?{pg}[Even through this baby's wails, you understand its pain.]
+[You promise yourself to come back for it.]
+"""
+NAME two dialog
+
+DLG 9
+"""
+You scream for help, but your walls cannot be permeated.
+Darkness consumes you, but inside, there is a light.
+Your smile is one of pain, a maniacal grimace.
+Your laughter is tortured, and tears fill your eyes.
+[This creature is black and white.]
+[You're not sure what to think.]
+"""
+NAME three dialog
+
+DLG a
+"""
+0, 1, 1, 2, 3, 5, 8... 
+{pg}The spiral continues in a never-ending loop. 
+Squares are always perfect, or they are not squares. 
+But squares are always rectangles. 
+Did Fibonacci say that? 
+Or was it Pascal?
+[You believe it was Nietzsche.]
+"""
+NAME four dialog
+
+DLG b
+"""
+{shk}It's so tight in here.
+{/shk}{pg}{shk}I can't breathe.{/shk}{pg}{shk}I can't speak.{/shk}{shk}I can't hide.{/shk}{pg}[The walls are rather claustrophobic.]
+"""
+NAME five dialog
+
+DLG c
+"""
+I want to be free.{pg}But this tumour...
+It's stealing my blood.
+[Unfortunately, you cannot remove the tumour.]
+"""
+NAME six dialog
+
+DLG d
+"""
+I want to be a star.
+I want to make others happy.
+But my light is fading.{pg}Are you a star, too?
+"""
+NAME seven dialogue
+
+DLG e
+"""
+Oh...
+I'm falling apart...
+Losing myself...{pg}{clr2}I am disgusting. I am unworthy. 
+I am nothing.{clr2}
+[This creature keeps spewing a clear, viscous liquid.]
+"""
+NAME eight dialog
+
+DLG f
+"""
+I'm scared to let go.
+I'm scared to run.
+Fear is all I know.{pg}[This flower is trying to hold on to its wilted petals.]
+"""
+NAME nine dialog
+
+DLG g
+"""
+ You were just a child.
+
+They knew you were just a child.
+
+They hurt you. Bad.
+
+You hid from them, but they knew where to look.
+You built walls, but they poured gasoline on them.
+Now you run away at the slightest sound.
+{shk}...You were just a child.{shk}
+
+[I'm still a child.]
+"""
+NAME ten dialog
+
+DLG h
+[You've slept long enough.]
+NAME bed2 dialog
+
+DLG i
+[You can barely recognize the reflection.]
+NAME tv2 dialog
+
+DLG j
+"""
+On second thought...
+
+You don't feel like leaving your room today.
+"""
+NAME ending 1
+
+DLG k
+"""
+{
+  - {item "0"} >= 1 ?
+    {property locked false}
+  - else ?
+    {property locked true}You don't feel ready to leave the house...
+}
+"""
+NAME locked exit 1
+
+VAR a
+42
+
+TUNE 1
+3d,0,0,0,3d5,0,0,0,3l,0,0,0,3s,0,0,0
+16d2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+>
+4l,0,0,0,s,0,3l,0,0,0,2s,0,2m,0,2r,0
+16m2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+>
+3d,0,0,0,3d5,0,0,0,3l,0,0,0,3s,0,0,0
+16l2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+>
+3l,0,0,0,s,0,4m,0,0,0,4r,0,0,0,0,0
+16s2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NAME finale fanfare
+KEY C,D,E,F,G,A,B d,r,m,s,l
+TMP XFST
+SQR P2 P8
+ARP INT8
+
+TUNE 2
+0,0,2G,0,A,0,B,0,2C5,0,B,A,G,0,2G,0
+G3,0,D,0,G3,0,D,0,2A3,0,E,0,C,0,E,0
+>
+2F#,0,G,0,A,0,F#,0,2E,0,F#,E,4D,0,0,0
+2D,0,E,0,F#,0,D,0,2C,0,2G3,0,2F#3,0,D2,0
+>
+0,0,2G,0,A,0,B,0,2C5,0,B,A,G,0,G,0
+2G2,0,D,D5,G3,G,D,0,2C2,0,E,E5,C3,C,E5,0
+>
+2D,0,C5,B,A,0,A,0,4A,0,0,0,F#,0,0,0
+A2,0,E3,0,C3,0,E3,0,D3,0,A3,0,D,0,0,0
+>
+2E5,0,2G,0,2G5,0,2G,0,2F#5,0,2E5,0,2D5,0,2C5,0
+2C3,0,2E,0,2E5,0,2C,0,2A3,0,2C,0,2F#,0,2E,0
+>
+3B,0,0,0,2E5,0,D5,0,4A,0,0,0,G,0,0,0
+2G3,0,B3,0,2D,0,D3,0,2C3,0,G3,0,D#,0,0,0
+>
+0,0,2G,0,A,0,2B,0,C5,0,B,C5,A,0,G,0
+A2,0,A3,0,C,0,2D,0,D#,0,D,E,C,0,C3,0
+>
+8B,0,0,0,0,0,0,0,A,0,2F#,0,E,0,D,0
+D3,0,A3,0,F#,0,D,0,C,0,2D3,0,C3,0,F#3,0
+NAME tuneful town
+TMP FST
+SQR P4 P2
+
+TUNE 3
+3F5,0,0,A#,0,2C#5,0,A#,3F5,0,0,F#5,0,0,2F5,0
+A#3,C#,F,0,0,F,C#,F,A#3,C#,F,A#,0,A#,C#,F
+>
+3F5,0,0,A,0,2C#5,0,A,3F5,0,0,2A#5,0,A#,D#5,0
+A3,C#,F,A3,0,F,C#,F,A,C#,F,0,D#,0,C#5,0
+>
+4F5,0,0,0,G#,2C#5,0,G#,3F5,0,0,D#5,0,F5,2C#5,0
+G#3,C#,F,3F#,0,0,2F,0,G#3,C#,F,F#,B,A,F,D#
+>
+4D#5,0,0,0,0,0,2A#,0,4A#,0,0,0,0,0,A#,C5
+G3,D#,F,G,0,D#,F,G,G3,D#,G,F,0,F,D#,C#3
+>
+4C#5,0,0,0,0,0,2C#5,0,3C#5,0,0,D#5,0,0,2C#5,0
+F#2,C#,F#3,A#3,0,F#3,C#3,F#3,F#2,A,F#3,C#,0,F#3,A3,F#3
+>
+3C#5,0,0,F,3C5,0,0,C,3C5,0,0,D#,3A#,0,0,0
+F2,D#3,A3,0,0,F3,C#,0,F#2,A#3,D#3,0,0,F#3,C#,C
+>
+3A#,0,0,0,C5,0,C#5,0,A#,0,C#,D#,G#,G#3,0,C#3
+C3,A#3,C,E,A,0,A#,0,0,B2,B3,0,2F,0,0,0
+>
+A#,0,A#3,0,C#,0,F,0,A#,0,0,0,0,0,0,0
+A#2,0,C#3,0,F3,0,A#3,0,D,0,0,0,0,F#3,0,F3
+NAME rhythmic ruins
+TMP MED
+SQR P4 P4
+
+BLIP 1
+E5,B5,B5
+NAME meow
+ENV 40 99 4 185 138
+BEAT 61 115
+SQR P2
+
+BLIP 2
+F#,B,B
+NAME pick up key
+ENV 108 87 3 146 126
+BEAT 32 0
+SQR P2
+
